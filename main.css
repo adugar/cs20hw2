@@ -1,0 +1,52 @@
+body {
+    margin:0;
+    padding-bottom: 75px;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #ffd700;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    font-weight: bold;
+    float: left;
+    display: block;
+    color: #0000FF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.main {
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 55px;
+}
+
+.contact {
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.services {
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.address {
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 15px;
+}
+
+.subtext {
+    margin-left: 20px;
+    margin-top: 90px;
+    font-size: 40px;
+}
