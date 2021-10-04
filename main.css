@@ -28,6 +28,11 @@ body {
     font-size: 55px;
 }
 
+.map {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
 .contact {
     margin-left: 20px;
     margin-top: 50px;
@@ -45,6 +50,7 @@ body {
     margin-top: 50px;
     font-size: 15px;
 }
+
 
 .subtext {
     margin-left: 20px;
